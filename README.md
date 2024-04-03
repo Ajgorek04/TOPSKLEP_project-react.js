@@ -1,1 +1,3 @@
 # TOP SKLEP PROJECT IN REACT
+
+![View](./VIEW.png)
